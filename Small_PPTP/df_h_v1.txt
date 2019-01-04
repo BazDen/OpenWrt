@@ -1,0 +1,6 @@
+Filesystem                Size      Used Available Use% Mounted on
+/dev/root                 3.0M      3.0M         0 100% /rom
+tmpfs                    13.9M    100.0K     13.8M   1% /tmp
+/dev/mtdblock3          640.0K    240.0K    400.0K  38% /overlay
+overlayfs:/overlay      640.0K    240.0K    400.0K  38% /
+tmpfs                   512.0K         0    512.0K   0% /dev
